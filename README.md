@@ -77,6 +77,9 @@ sua empresa. Vamos ajudá-lo. Começaremos construindo o banco de dados.
 #### Diagrama de tebelas 
 <img src="diagrama_tabelas.png">
 
+#### MER - Modelo de entidade Relacional
+
+<img src="mer.png">
 
 ### Modelo Fisico 
 
